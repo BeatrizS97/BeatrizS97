@@ -5,10 +5,10 @@
 🚀 Buscando oportunidades para evoluir e colaborar em projetos desafiadores  
 
 🛠️ Tecnologias e Ferramentas  
-- **Linguagens:** Java, JavaScript, HTML, CSS, Python  
+- **Linguagens:** Java, JavaScript, HTML, CSS, React Native
 - **Frameworks:** JavaServer Faces (JSF), Jakarta EE, Spring (em aprendizado)  
 - **Banco de Dados:** MySQL  
-- **Ferramentas:** NetBeans, Visual Studio Code, XAMPP, Eclipse  
+- **Ferramentas:** NetBeans, Visual Studio Code, XAMPP, Eclipse, Expo Snack
 - **Sistemas Operacionais:** Windows 
 
 ## 🌟 Sobre Mim  
