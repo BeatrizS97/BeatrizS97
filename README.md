@@ -7,7 +7,7 @@
 
 <!-- Typing Effect Profissional -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C026D3&center=true&vCenter=true&width=600&lines=Transformando+dados+em+experi%C3%AAncias+visuais;Front-end+com+prop%C3%B3sito+e+design+intencional;IA+aplicada+a+impacto+social+real;Ex-pedagoga+%E2%86%92+Full-Stack+Developer;Constru%C3%ADndo+interfaces+que+contam+hist%C3%B3rias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C026D3&center=true&vCenter=true&width=600&lines=Transformando+dados+em+experiências+visuais;Front-end+com+propósito+e+design+intencional;IA+aplicada+a+impacto+social+real;Ex-pedagoga+→+Full-Stack+Developer;Construindo+interfaces+que+contam+histórias" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -22,29 +22,17 @@
 <a href="https://beatrizs97.github.io/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-C026D3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://orcid.org/0009-0001-2345-6789">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-</a>
 
 <br><br>
 
 <!-- GitHub Stats com Tema Customizado Rosa/Roxo -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=EC4899&text_color=FFF&ring_color=8B5CF6&fire_color=EC4899&currStreakLabel=C026D3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=EC4899&text_color=FFF&include_all_commits=true&count_private=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF"/>
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=EC4899&text_color=FFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF" alt="Most Used Languages"/>
 
 <br><br>
 
 <!-- GitHub Streak com Rosa/Roxo -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizS97&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C026D3&fire=EC4899&currStreakNum=FFF&sideNums=FFF&currStreakLabel=C026D3&sideLabels=8B5CF6&dates=A78BFA"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizS97&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C026D3&fire=EC4899&currStreakNum=FFF&sideNums=FFF&currStreakLabel=C026D3&sideLabels=8B5CF6&dates=A78BFA" alt="GitHub Streak"/>
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizS97&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C026D3&fire=EC4899&currStreakNum=FFF&sideNums=FFF&currStreakLabel=C026D3&sideLabels=8B5CF6&dates=A78BFA" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -64,14 +52,11 @@
 
 ## 🎯 Sobre Mim
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
-
 ```typescript
 interface Developer {
   name: string;
   role: string;
   background: string;
-  location: string;
   education: string;
   
   technical_stack: {
@@ -89,7 +74,6 @@ const beatriz: Developer = {
   name: "Beatriz Silva Santos",
   role: "Full-Stack Developer Junior",
   background: "Career Transition: Pedagogy → Technology",
-  location: "Itanhaém, SP - Brazil",
   education: "Analysis and Systems Development @ FATEC",
   
   technical_stack: {
@@ -112,8 +96,6 @@ const beatriz: Developer = {
   currently_learning: ["TypeScript", "Next.js", "Python for Data Science"]
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -152,17 +134,13 @@ const beatriz: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BeatrizS97&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&icon_color=EC4899&layout=compact" alt="Coding Stats" />
-
-<br><br>
-
 | Skill Area | Proficiency | Key Strength |
 |:-----------|:-----------:|:-------------|
-| **Frontend Development** | ![95%](https://progress-bar.dev/95?title=completed&width=200&color=C026D3) | Interface design, animations, responsiveness |
-| **Data Analysis & Visualization** | ![90%](https://progress-bar.dev/90?title=completed&width=200&color=EC4899) | Storytelling with data, meaningful metrics |
-| **Full-Stack Integration** | ![85%](https://progress-bar.dev/85?title=completed&width=200&color=8B5CF6) | API integration, architecture, persistence |
-| **UI/UX Design** | ![85%](https://progress-bar.dev/85?title=completed&width=200&color=A78BFA) | User-centered design, accessibility |
-| **AI & Automation** | ![70%](https://progress-bar.dev/70?title=completed&width=200&color=C084FC) | Ethical prototyping, social applications |
+| **Frontend Development** | ████████████████████░ 95% | Interface design, animations, responsiveness |
+| **Data Analysis & Visualization** | ███████████████████░░ 90% | Storytelling with data, meaningful metrics |
+| **Full-Stack Integration** | ██████████████████░░░ 85% | API integration, architecture, persistence |
+| **UI/UX Design** | ██████████████████░░░ 85% | User-centered design, accessibility |
+| **AI & Automation** | ███████████████░░░░░░ 70% | Ethical prototyping, social applications |
 
 </div>
 
@@ -170,100 +148,40 @@ const beatriz: Developer = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <div align="center">
 
-### 🩸 Doe Vida
+### 🩸 [Doe Vida](https://github.com/BeatrizS97/Projeto-Doe-Vida)
 **Social Impact | Full-Stack Application**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+**Stack:** React + PHP + MySQL  
+**Highlights:** Real-time donation tracking • 1 donation = 4 lives metric • Gamification system • Responsive dashboard
 
-**Tech Stack:** React, PHP, MySQL  
-**Highlights:**
-- Real-time donation tracking
-- 1 donation = 4 lives saved metric
-- Gamification system
-- Responsive dashboard
+---
 
-[View Project →](https://github.com/BeatrizS97/Projeto-Doe-Vida)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤖 Passo IA
+### 🤖 [Passo IA](https://github.com/BeatrizS97/Projeto-Passo-IA)
 **AI Integration | Education**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+**Stack:** React + AI APIs  
+**Highlights:** Conversational interface • Personalized learning paths • Context-aware responses • Social impact focus
 
-**Tech Stack:** React, AI APIs  
-**Highlights:**
-- Conversational interface
-- Personalized learning paths
-- Context-aware responses
-- Social impact focus
+---
 
-[View Project →](https://github.com/BeatrizS97/Projeto-Passo-IA)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 😊 Humormômetro
+### 😊 [Humorômetro](https://github.com/BeatrizS97/Projetos_Simples_e_Praticos_Front-End)
 **Frontend | Data Visualization**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
+**Stack:** JavaScript + Chart.js + CSS3  
+**Highlights:** Real-time mood tracking • Visual trend analysis • Confetti animations • Local data persistence
 
-**Tech Stack:** JavaScript, Chart.js, CSS3  
-**Highlights:**
-- Real-time mood tracking
-- Visual trend analysis
-- Confetti animations
-- Local data persistence
+---
 
-[View Project →](https://github.com/BeatrizS97/Projetos_Simples_e_Praticos_Front-End)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🎨 Interactive Portfolio
+### 🎨 [Interactive Portfolio](https://beatrizs97.github.io/Portfolio)
 **Showcase | Advanced UI**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+**Stack:** Vue.js + Advanced CSS  
+**Highlights:** Glassmorphism effects • Smooth animations • Project storytelling • Responsive design
 
-**Tech Stack:** Vue.js, Advanced CSS  
-**Highlights:**
-- Glassmorphism effects
-- Smooth animations
-- Project storytelling
-- Responsive design
+<br>
 
-[View Project →](https://beatrizs97.github.io/Portfolio)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
 ### [📂 View All Projects →](https://github.com/BeatrizS97?tab=repositories)
 
 </div>
@@ -274,13 +192,7 @@ const beatriz: Developer = {
 
 <div align="center">
 
-<!-- Activity Graph Rosa/Roxo -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeatrizS97&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=C026D3&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&title_color=C026D3&radius=10" alt="Contribution Graph"/>
-
-<br><br>
-
-<!-- 3D Contribution Calendar -->
-<img src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=EC4899&text_color=FFF" alt="GitHub Stats"/>
 
 </div>
 
@@ -290,8 +202,6 @@ const beatriz: Developer = {
 
 <div align="center">
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Design Animation"/>
-
 | Characteristic | Real-World Application |
 |:---------------|:------------------------|
 | **Design with Purpose** | Every animation serves a function—not just aesthetic, but meaningful |
@@ -299,8 +209,6 @@ const beatriz: Developer = {
 | **Education Background** | Clear communication and UX designed for real users |
 | **Fast Learning Curve** | From zero to production-ready in complex projects within weeks |
 | **Career Resilience** | Successful career transition demonstrates adaptability |
-
-<br clear="right"/>
 
 </div>
 
@@ -335,10 +243,6 @@ location: Open to relocation
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
-
-<br><br>
-
 **Each link opens a different layer of my journey:**
 
 <br>
@@ -355,8 +259,7 @@ location: Open to relocation
 
 <br><br>
 
-**📧 Email:** beatriz.silva@example.com  
-**📍 Location:** Itanhaém, São Paulo, Brazil  
+**📧 Email:** beatriz.santos.ads97@gmail.com  
 **🌐 Open to Remote Work Worldwide**
 
 </div>
