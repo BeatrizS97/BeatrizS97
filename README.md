@@ -1,17 +1,12 @@
 <div align="center">
-
 <!-- Header Animado Premium com Gradiente Rosa/Roxo -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,30:C026D3,70:EC4899,100:8B5CF6&height=200&section=header&text=Beatriz%20Silva%20Santos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Data%20Storyteller%20|%20UI%20Specialist&descAlignY=55&descSize=18"/>
-
 <br>
-
 <!-- Typing Effect Profissional -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C026D3&center=true&vCenter=true&width=600&lines=Transformando+dados+em+experiências+visuais;Front-end+com+propósito+e+design+intencional;IA+aplicada+a+impacto+social+real;Ex-pedagoga+→+Full-Stack+Developer;Construindo+interfaces+que+contam+histórias" alt="Typing SVG" />
 </a>
-
 <br><br>
-
 <!-- Social Badges com Rosa/Roxo -->
 <a href="https://www.linkedin.com/in/beatrizsilvasantos-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,31 +17,20 @@
 <a href="https://beatrizs97.github.io/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-C026D3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-
 <br><br>
-
 <!-- GitHub Stats com Tema Customizado Rosa/Roxo -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=EC4899&text_color=FFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF" alt="Most Used Languages"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10"/>
 <br><br>
-
 <!-- GitHub Streak com Rosa/Roxo -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizS97&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C026D3&fire=EC4899&currStreakNum=FFF&sideNums=FFF&currStreakLabel=C026D3&sideLabels=8B5CF6&dates=A78BFA" alt="GitHub Streak"/>
-
 <br><br>
-
-<!-- Trophies Animados -->
-<img src="https://github-profile-trophy.vercel.app/?username=BeatrizS97&theme=radical&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies"/>
-
-<br><br>
-
 <!-- Contador Profissional Rosa/Roxo -->
 <img src="https://komarev.com/ghpvc/?username=BeatrizS97&color=C026D3&style=flat-square&label=Profile+Views" alt="Views"/>
 <img src="https://img.shields.io/github/followers/BeatrizS97?style=flat-square&color=8B5CF6&labelColor=181717&logo=github&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/BeatrizS97?style=flat-square&color=EC4899&labelColor=181717&logo=github&label=Total+Stars" alt="Stars"/>
-
 </div>
+
+
 
 ---
 
