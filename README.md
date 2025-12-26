@@ -10,7 +10,7 @@
 
 <!-- Social Badges Animados -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatrizsilvasantos/">
+  <a href="https://www.linkedin.com/in/beatrizsilvasantos-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/BeatrizS97">
@@ -19,7 +19,7 @@
   <a href="https://orcid.org/0000-0000-0000-0000">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-  <a href="https://github.com/BeatrizS97/Portfolio">
+  <a href="https://beatrizs97.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfólio-E50914?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
