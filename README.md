@@ -18,12 +18,11 @@
   <img src="https://img.shields.io/badge/Portfolio-C026D3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <br><br>
-<!-- GitHub Stats com Tema Customizado Rosa/Roxo -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&cache_seconds=3600" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&cache_seconds=3600" />
-<!-- GitHub Streak com Rosa/Roxo -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizS97&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C026D3&fire=EC4899&currStreakNum=FFF&sideNums=FFF&currStreakLabel=C026D3&sideLabels=8B5CF6&dates=A78BFA" alt="GitHub Streak"/>
-<br><br>
+<!-- GitHub Stats com Tema Customizado Rosa/Roxo (Versão Estável) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
+<!-- GitHub Streak - Serviço Alternativo -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeatrizS97&bg_color=0D1117&color=C026D3&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&title_color=C026D3&radius=10&custom_title=GitHub+Activity" alt="GitHub Activity Graph"/>
 <!-- Contador Profissional Rosa/Roxo -->
 <img src="https://komarev.com/ghpvc/?username=BeatrizS97&color=C026D3&style=flat-square&label=Profile+Views" alt="Views"/>
 <img src="https://img.shields.io/github/followers/BeatrizS97?style=flat-square&color=8B5CF6&labelColor=181717&logo=github&label=Followers" alt="Followers"/>
