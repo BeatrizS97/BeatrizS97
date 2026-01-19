@@ -197,8 +197,9 @@ const beatriz: Desenvolvedora = {
 ## 🎯 Aberta a Oportunidades | Open to Opportunities
 
 <div align="center">
-
+  
 ```yaml
+
 # Em Português
 buscando:
   - cargo: Desenvolvedor(a) Júnior Frontend / Full-Stack / Analista de Dados
@@ -236,13 +237,11 @@ location: Open to relocation
 
 ---
 
-## 💌 Vamos nos Conectar
+## 💌 Vamos nos conectar
 
 <div align="center">
 
 **Cada link abre uma camada diferente da minha jornada:**
-
-<br>
 
 <a href="https://www.linkedin.com/in/beatrizsilvasantos-dev/">
   <img src="https://img.shields.io/badge/Jornada_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/>
@@ -253,7 +252,6 @@ location: Open to relocation
 <a href="https://beatrizs97.github.io/Portfolio">
   <img src="https://img.shields.io/badge/Showcase_Interativo-C026D3?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
 </a>
-
 <br><br>
 
 **📧 Email:** beatriz.santos.ads97@gmail.com  
