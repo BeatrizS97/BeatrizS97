@@ -19,20 +19,19 @@
 </a>
 <br><br>
 <!-- GitHub Stats com Tema Customizado Rosa/Roxo (Versão Estável) -->
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&count_private=false&include_all_commits=false" />
-<!-- GitHub Streak - Serviço Alternativo -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeatrizS97&bg_color=0D1117&color=C026D3&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&title_color=C026D3&radius=10&custom_title=GitHub+Activity" alt="GitHub Activity Graph"/>
 <!-- Contador Profissional Rosa/Roxo -->
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=BeatrizS97&color=C026D3&style=flat-square&label=Profile+Views" alt="Views"/>
 <img src="https://img.shields.io/github/followers/BeatrizS97?style=flat-square&color=8B5CF6&labelColor=181717&logo=github&label=Followers" alt="Followers"/>
 </div>
 
-
-
 ---
 
 ## 🎯 Sobre Mim
+<div align="justify">
 
 ```typescript
 interface Developer {
@@ -140,7 +139,7 @@ const beatriz: Developer = {
 
 ---
 
-### 🤖 [Passo IA](https://github.com/BeatrizS97/Projeto-Passo-IA)
+### [Passo IA](https://github.com/BeatrizS97/Projeto-Passo-IA)
 **AI Integration | Education**
 
 **Stack:** React + AI APIs  
