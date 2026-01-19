@@ -19,9 +19,8 @@
 </a>
 <br><br>
 <!-- GitHub Stats com Tema Customizado Rosa/Roxo -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10"/>
-<br><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizS97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=8B5CF6&text_color=FFF&border_radius=10&cache_seconds=3600" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizS97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C026D3&text_color=FFF&border_radius=10&cache_seconds=3600" />
 <!-- GitHub Streak com Rosa/Roxo -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizS97&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C026D3&fire=EC4899&currStreakNum=FFF&sideNums=FFF&currStreakLabel=C026D3&sideLabels=8B5CF6&dates=A78BFA" alt="GitHub Streak"/>
 <br><br>
